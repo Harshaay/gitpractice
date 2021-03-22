@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="119524" started-at="2021-03-21T14:20:32Z" finished-at="2021-03-21T14:22:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="119524" started-at="2021-03-21T14:20:32Z" finished-at="2021-03-21T14:22:32Z">
+      <class name="com.crm.practice.PracticeLaunch">
+        <test-method status="PASS" signature="geckolaunch()[pri:0, instance:com.crm.practice.PracticeLaunch@32d992b2]" name="geckolaunch" duration-ms="119054" started-at="2021-03-21T19:50:32Z" finished-at="2021-03-21T19:52:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- geckolaunch -->
+      </class> <!-- com.crm.practice.PracticeLaunch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
